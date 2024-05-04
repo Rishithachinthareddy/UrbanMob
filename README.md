@@ -8,15 +8,25 @@ This study is a pioneer in the use of fingerprinting techniques in conjunction w
 
 all the required packages can be downloaded using the imports.py file such as below
 pip install numpy
+
 pip install matplotlib
+
 pip install tqdm
+
 pip install enum34
+
 pip install jsonlib2
+
 pip install shapely
+
 pip install scipy
+
 pip install pandas
+
 pip install dtaidistance
+
 pip install bresenham
+
 The directory structure of the project is organized as follows:
 
 - `fingerprinting.py`: Contains methods for generating probabilistic fingerprints.
