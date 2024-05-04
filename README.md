@@ -3,6 +3,7 @@
 ## Project Overview
 
 This study is a pioneer in the use of fingerprinting techniques in conjunction with differential privacy protections to improve the security of trajectory data in studies of public transportation. The paper shows the effectiveness of the technique against various attacks and maintains significant data utility within privacy limitations using the Urbanmob dataset, which is enhanced for more data points collected from cab trajectories. The methodology uses a methodical approach to apply data modifications to mask individual travel patterns. It begins with correlation corrections and ends with the deployment of differential privacy. In addition to strengthening protection against potential data breaches, our multi-stage processing pipeline maintains data usability for traffic management and urban planning applications. Based on the analysis, it can be concluded that a scalable solution to support data privacy in sensitive transportation datasets and establish a standard for future privacy-focused studies across various data-driven domains can be achieved by strategically integrating advanced privacy-preserving techniques and purposeful data augmentation, while maintaining the detailed insights essential for effective public infrastructure analysis.
+#-Rishitha Redddy
 ## Directory Structure
 
 
